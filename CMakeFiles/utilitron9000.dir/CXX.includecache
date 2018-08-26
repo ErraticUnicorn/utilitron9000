@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/coshxlabs/Desktop/documents/apps/Utilitron9000/exported.h
+
+/Users/coshxlabs/Desktop/documents/apps/Utilitron9000/main.cpp
+exported.h
+/Users/coshxlabs/Desktop/documents/apps/Utilitron9000/exported.h
+
